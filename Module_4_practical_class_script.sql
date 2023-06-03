@@ -1,4 +1,4 @@
-#Module4 practical class script.
+#Module4 practical class script
 
 USE curso_sql;
 
