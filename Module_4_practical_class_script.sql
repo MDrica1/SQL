@@ -1,4 +1,4 @@
-#Module 4 practical class script.
+#Module4 practical class script.
 
 USE curso_sql;
 
@@ -10,12 +10,12 @@ INSERT INTO funcionarios (nome, salario, departamento) VALUES ('Isabela','2200',
 
 SELECT * FROM funcionarios WHERE salario > 2000;
 
-update funcionarios set salario = salario*1.1 where id=1;
+UPDATE funcionarios SET salario = salario*1.1 WHERE id=1;
 SET SQL_SAFE_UPDATES = 0;
-update funcionarios set salario = salario*1.1;
+UPDATE funcionarios SET salario = salario*1.1;
 SET SQL_SAFE_UPDATES = 1;
 SET SQL_SAFE_UPDATES = 0;
-update funcionarios set salario = ROUND(salario*1.1,2);
+UPDATE funcionarios SET salario = ROUND(salario*1.1,2);
 
 DELETE FROM funcionarios WHERE id=4;
 
