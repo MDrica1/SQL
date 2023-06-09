@@ -1,4 +1,5 @@
 #Module 4 exercises
+
 #Exercise 1: Using the database created in the previous modules, create SQL commands to insert the presented data
 
 USE curso_sql;
