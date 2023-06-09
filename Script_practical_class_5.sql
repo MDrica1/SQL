@@ -1,11 +1,11 @@
 USE curso_sql;
 
-#Script: Module 5 - Join and views
+#Script: Module 5 - Join and Views
 
 SELECT * FROM funcionarios;
 SELECT * FROM veiculos;
 
-#Creates a join between the funcionarios and veiculos tables
+#Creates a relation between the funcionarios and veiculos tables
 #returns only the rows that satisfy the condition
 SELECT * FROM funcionarios INNER JOIN veiculos ON veiculos.id_funcionario = funcionarios.id; 
 #putting nicknames
