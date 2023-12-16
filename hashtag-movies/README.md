@@ -39,7 +39,7 @@ We observe that, grouping the averages by year, the years with films with rating
 
 I also grouped the average by year of release and genre, for a more complete analysis.
 
-![Average of rating per release year AND genre](images/genero-media-ano.png "Average of rating per release year AND genre.")
+![Average of rating per release year AND genre](images/genero-ano-media.png "Average of rating per release year AND genre.")
 
 And, considering that the majority of rented films were drama films, although poorly rated, seeking to increase customer satisfaction, I investigated in which year the highest rated drama films were produced, in order to improve the quality of films of this genre, which is the most searched.
 
