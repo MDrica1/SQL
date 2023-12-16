@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Project "Hashtag Movies"
-=======
 
->>>>>>> f8a7ddad362204209424f60cfac83edf35444580
+# Project "Hashtag Movies"
 
 Project idea and database provided by Hashtag Programação.
 
