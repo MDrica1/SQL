@@ -15,7 +15,7 @@ Firstly, I assessed customer satisfaction with the service, based on the overall
 
 We observed that the sample consists of 578 rentals, referring to 71 films, and that 43% of rented films were not rated.
 
-The average, disregarding null values, is 7.9, which can be considered average satisfaction. Among the available assessments, we observed that 58.8% had an above average score.
+The average, disregarding null values, is 7.9, which can be considered a regular satisfaction. Among the available assessments, we observed that 58.8% had an above average score.
 
 What to do to increase customer satisfaction? Invest in the films that customers like most.
 
