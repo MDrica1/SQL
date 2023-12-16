@@ -1,2 +1,2 @@
-# SQL
-Practical class scripts and exercises performed in my SQL course.
+# Repository with my SQL projects
+See the README for each of them in their respective folders
