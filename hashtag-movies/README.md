@@ -1,4 +1,3 @@
-
 # Project "Hashtag Movies"
 
 Project idea and database provided by Hashtag Programação.
@@ -15,7 +14,7 @@ Firstly, I assessed customer satisfaction with the service, based on the overall
 
 We observed that the sample consists of 578 rentals, referring to 71 films, and that 43% of rented films were not rated.
 
-The average, disregarding null values, is 7.9, which can be considered a regular satisfaction. Among the available assessments, we observed that 58.8% had an above average score.
+The average, disregarding null values, is 7.9, which can be considered average satisfaction. Among the available assessments, we observed that 58.8% had an above average score.
 
 What to do to increase customer satisfaction? Invest in the films that customers like most.
 
@@ -39,7 +38,7 @@ We observe that, grouping the averages by year, the years with films with rating
 
 I also grouped the average by year of release and genre, for a more complete analysis.
 
-![Average of rating per release year AND genre](images/genero-ano-media.png "Average of rating per release year AND genre.")
+![Average of rating per release year AND genre](images/media-ano-genero.png "Average of rating per release year AND genre.")
 
 And, considering that the majority of rented films were drama films, although poorly rated, seeking to increase customer satisfaction, I investigated in which year the highest rated drama films were produced, in order to improve the quality of films of this genre, which is the most searched.
 
@@ -50,5 +49,37 @@ It is also interesting to invest in Fiction and Fantasy films from 2001, and Dra
 
 ## Customer engagement and preference by gender and region.
 
+Analyzing the customers table, it is clear that there is no significant difference between men and women, and that the majority are from the southeast, with 49.6% of subscriptions
+
+![number of customers by region and gender](images/quantidade-sexo-regiao.png "Number of customers by region and gender.")
+
+Analyzing preferences based on the genres best rated by each sex, we see that men prefer Action and Adventure films, followed by Fiction and Fantasy, while women prefer Art and Animation films.
+
+![Film genres best rated by women](images/pref-feminino.png "Film genres best rated by women.")
+
+![Film genres best rated by men](images/pref-masculino.png "Film genres best rated by men.")
+
+Now, analyzing preferences by region, the following was found:
+
+- Northeast prefers Action and Adventure
+- North prefers Comedy and Animation
+- Southeast prefers Art and Action and Adventure
+- South prefers Action and Adventure
+- Midwest prefers Comedy (Art and Action and Adventure also highly rated)
+
+![Film genres best rated by customers in the northeast region](images/pref-masculino.png "Film genres best rated by customers in the northeast region.")
+
+Finally, I analyzed average customer satisfaction by region, and the following was observed:
+
+![rating per region](images/media-regiao.png "Rating per region")
+
+- South, Southeast and Central-West are rated below average. They are, therefore, the least satisfied with the catalogue.
+
+In this sense, it may be interesting to invest in films that appeal more to these audiences, which were mentioned above.
+
 
 ## Company revenue
+
+Evaluating the company's revenue through the number of locations, it was found that the company's total revenue was R$1275.72, where each film contributed to total revenue as follows:
+
+![rating per region](images/receita-por-filme.png "Rating per region")
