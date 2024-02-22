@@ -1,0 +1,3 @@
+[submodule "game-sql-mistery-solution"]
+	path = game-sql-mistery-solution
+	url = https://github.com/MDrica1/Game-SQL_Mistery_Murder.git
